@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cool on Finn OS</title>
+    <link>http://localhost:1313/tags/cool/</link>
+    <description>Recent content in Cool on Finn OS</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Aug 2024 17:10:28 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cool/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/first-post/</link>
+      <pubDate>Mon, 12 Aug 2024 17:10:28 -0400</pubDate>
+      <guid>http://localhost:1313/first-post/</guid>
+      <description>first post lol </description>
+    </item>
+  </channel>
+</rss>
