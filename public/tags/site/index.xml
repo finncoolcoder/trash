@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Site on Finn OS</title>
-    <link>http://localhost:1313/tags/site/</link>
+    <link>https://example.com/tags/site/</link>
     <description>Recent content in Site on Finn OS</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 12 Aug 2024 17:10:28 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/site/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.com/tags/site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>http://localhost:1313/first-post/</link>
+      <link>https://example.com/first-post/</link>
       <pubDate>Mon, 12 Aug 2024 17:10:28 -0400</pubDate>
-      <guid>http://localhost:1313/first-post/</guid>
-      <description>first post lol </description>
+      <guid>https://example.com/first-post/</guid>
+      <description>A few months ago I began to delve deep into the land of the personal web. My first attempt at this was the amazing but complicated and weird static site generator called jekyll. Jekyll is great if you like your blog to look boring and load slowly however why would you want that? So as I was mucking around youtube as one does, I found the solution to my problems staring at me from none other than fireship.</description>
     </item>
   </channel>
 </rss>
